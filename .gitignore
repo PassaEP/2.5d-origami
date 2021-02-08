@@ -1,0 +1,11 @@
+# OS Files #
+.DS_Store
+
+# SVGs #
+*.svg
+
+# Folders #
+/__pycache__
+
+# csv #
+*.csv
