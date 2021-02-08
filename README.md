@@ -20,4 +20,5 @@ Otherwise:
 - Honeycomb lattices on 3D view as well
 
 ### In-Progress Features
-- Need to render handles properly 
+- Need to render handles properly
+- Switch to Click for command line usage 
